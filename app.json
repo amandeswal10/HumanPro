@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "HumanPro",
+    "slug": "HumanPro",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "HumanPro"
+}

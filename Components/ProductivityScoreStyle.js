@@ -1,7 +1,10 @@
 import { StyleSheet } from "react-native";
 
 const styles = StyleSheet.create({
-    container:{
+    productivityScore:{
+        color: '#FAEBD7',
+        textAlign: 'center',
+        fontSize: 25
     }
 
 });
